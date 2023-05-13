@@ -109,5 +109,3 @@ class BinarySearchTree {
 }
 
 const bst = new BinarySearchTree();
-
-bst.inorder('fds');
